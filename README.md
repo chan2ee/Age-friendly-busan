@@ -1,9 +1,9 @@
 # Age-Friendly-Busan
 
 ### necessity
-급속한 인구 고령화\
-베이비부머 세대의 본격 은퇴 및 노인인구의 증가에 대비\
-모든 시민이 체감하는 노인복지계획 필요
+rapid population aging\
+Prepare for the full-fledged retirement of the baby boomers and the increase in the elderly population.\
+Need for welfare programs for the elderly that all citizens experience.
 
 ### Customized Design
 http://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=15034025
